@@ -1,2 +1,2 @@
-# Portfolio
-Tänne laitoin parhaat koulutyöni
+# csharp-graafiset
+Tänne laitoin pari koulutehtävää graafiset käyttöliittymät kurssilta
