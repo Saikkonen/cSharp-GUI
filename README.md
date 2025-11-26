@@ -1,6 +1,6 @@
 # C# GUI
 
-Pari koulutehtävää, jotka tein toisena vuotena ammattikoulussa graafiset käyttöliittymät kurssilta. Kaikki tehtävät on tehty käyttämällä C# ja Windows Forms.
+Pari koulutehtävää, jotka tein ammattikoulun toisena vuotena graafiset käyttöliittymät kurssilla. Kaikki tehtävät on tehty käyttämällä C# ja Windows Forms.
 
 ## [Miinaharava](./Miinaharava)
 
